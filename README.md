@@ -26,12 +26,10 @@ wget https://gitee.com/oscpu/oscpu-env-setup/raw/master/oscpu-env-setup.sh && ch
 
 # 获取代码
 
-```shell
-# 从gitee上克隆代码
-git clone --recursive -b 2022 https://gitee.com/oscpu/oscpu-framework.git oscpu
+
 # 从github上克隆代码
-git clone --recursive -b 2022 https://github.com/OSCPU/oscpu-framework.git oscpu
-```
+git clone --recursive -b 2022 https://github.com/dzwduan/oscpu-framework.git oscpu
+
 
 如果子仓库克隆失败，可在`oscpu`目录下使用下面的命令重新克隆子仓库。
 
