@@ -30,3 +30,4 @@
 !submit/*
 !*.xlsx
 !myinfo.txt
+!.gitmodules

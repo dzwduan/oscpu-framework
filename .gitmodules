@@ -1,0 +1,4 @@
+[submodule "ics-pa"]
+	path = ics-pa
+	url = git@github.com:NJU-ProjectN/ics-pa.git
+	branch = 2022
